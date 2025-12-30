@@ -18,4 +18,7 @@ whatsapp----> para trabalhar o relacionamento 1x1
 
 
 ### **Instagram:**
+#### construção de imagem e marca
+lifestyle, bastidores, a vida como ela é
+
 
