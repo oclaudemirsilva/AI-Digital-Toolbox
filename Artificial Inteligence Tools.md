@@ -24,6 +24,10 @@ No editing. Just click, customize, and post.
 [https://autoae.online/](https://autoae.online/)
 
 
+Explains and visualizes concepts with flowcharts, mindmaps and sequence diagrams.
+
+[https://whimsical.com/](https://whimsical.com/)
+
 
 ## Repositories:
 
