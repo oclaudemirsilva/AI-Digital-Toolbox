@@ -20,6 +20,9 @@ Ask questions about your architecture, find function definitions, and understand
 ## LLMs
 
 
+Manus
+
+[https://manus.im/app](https://manus.im/app)
 
 Qwen Chat is an AI assistant for everyone, powered by the Qwen series models. It’s free to use, open to all, and ready to help with creativity, collaboration, and endless possibilities. Just ask, and let Qwen Chat do the rest.
 
