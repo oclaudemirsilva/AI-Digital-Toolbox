@@ -1,6 +1,6 @@
 
 
-# Artificial Inteligence Tools
+## Artificial Inteligence Tools
 
 He are some site  components for you be inspired and copy prompts for using in your project AI:
 
