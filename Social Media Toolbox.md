@@ -25,7 +25,7 @@ whatsapp----> para trabalhar o relacionamento 1x1
 - **Influência comercial:** 97% dos profissionais de marketing dos US usam Instagram e 30% apontam o Instagram como marketing de influência
 
 - [x] d
-- [] dd
+- [ ] dd
 - 
  
 
