@@ -11,6 +11,8 @@ https://www.primalzen.com.br/
 modo zen  
 modo primal  
 
+- Na Primalzen quando um comentário é curtido de certa forma ele deixa de ser só um comentário ou post e passa a ser uma contribuição. No perfil da pessoa vai aparecer o número de constribuições que ela fez e essas contribuições vão aparecer no recomendados.
+
 dor: redes sociais estão nos tornando anti-sociais
 
 
