@@ -59,7 +59,8 @@ Novo parágrafo
 ---
 
 
-obs: você pode quebrar uma linha dando espaços no final de uma linha e clicar ENTER, isso garante que o que vem abaixo terá  
+obs: você pode quebrar uma linha dando espaços no final de uma linha e clicar ENTER, isso garante que o que vem abaixo não ficará na mesma linha  
+
 
 ## 5. Ênfase de Texto
 
