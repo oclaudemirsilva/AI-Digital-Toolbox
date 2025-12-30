@@ -18,7 +18,7 @@ whatsapp----> para trabalhar o relacionamento 1x1
 
 
 ### **Instagram:**
-- **construção de imagem e marca:** lifestyle, bastidores, a vida como ela é  
+-[] **construção de imagem e marca:** lifestyle, bastidores, a vida como ela é  
 - **prova social:** número de seguidores, marcações, reposts, depoimentos - e tudo isso conta muito para quem está te conhecendo.  
 - **comunidade:** stories, caixinha de perguntas, enquete, interações rápidas que ainda são exclusividade  
 - **Direct Mensages:** marcas que conversam no dm tem altas taxas de conversão  
