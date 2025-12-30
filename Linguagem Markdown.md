@@ -607,85 +607,79 @@ Quem domina Markdown domina **clareza**.
 ---
 
 ## Forçar quebra de linha
-<br> serve para forçar uma quebra de linha.
+`<br>` serve para forçar uma quebra de linha.
 
 Ele vem do HTML, mas funciona também dentro de Markdown na maioria dos renderizadores.
 
-📌 O que o <br> faz
+## 📌 O que o `<br>` faz
 
 Ele quebra a linha sem criar um novo parágrafo.
 
 Compare:
 
-Sem <br>
-Linha 1
-Linha 2
+### Sem `<br>`
 
+Linha 1  
+Linha 2
 
 ➡️ Isso vira um único parágrafo.
 
-Com <br>
+### Com `<br>`
+
 Linha 1<br>
 Linha 2
 
-
 ➡️ Isso vira:
 
-Linha 1
+Linha 1  
 Linha 2
 
-🧠 Diferença importante
-Forma	O que acontece
-Linha em branco	Novo parágrafo
-<br>	Apenas quebra de linha
-Dois espaços + Enter	Quebra de linha (Markdown puro)
+## 🧠 Diferença importante
 
-Exemplo Markdown puro:
+| Forma | O que acontece |
+|------|---------------|
+| Linha em branco | Novo parágrafo |
+| `<br>` | Apenas quebra de linha |
+| Dois espaços + Enter | Quebra de linha (Markdown puro) |
 
-Linha 1␠␠
+### Exemplo Markdown puro
+
+Linha 1␠␠  
 Linha 2
 
-✅ Quando usar <br>
+## ✅ Quando usar `<br>`
 
-Use <br> quando você precisa:
+Use `<br>` quando você precisa:
 
-Controlar exatamente a quebra de linha
+- Controlar exatamente a quebra de linha
+- Manter tudo no mesmo parágrafo
+- Escrever:
+  - poesia
+  - letras
+  - endereços
+  - listas visuais
+  - textos densos
 
-Manter tudo no mesmo parágrafo
-
-Escrever:
-
-poesia
-
-letras
-
-endereços
-
-listas visuais
-
-textos densos
-
-Exemplo:
+### Exemplo
 
 Nome: Claudemir Silva<br>
 Cargo: Desenvolvedor<br>
 Stack: Firebase · Next · IA
 
-❌ Quando NÃO usar <br>
+## ❌ Quando NÃO usar `<br>`
 
 Evite quando:
 
-estiver escrevendo documentação longa
+- estiver escrevendo documentação longa
+- quiser semântica correta
+- puder usar parágrafos ou listas
 
-quiser semântica correta
-
-puder usar parágrafos ou listas
-
-Prefira:
+### Prefira:
 
 - Nome: Claudemir Silva
 - Cargo: Desenvolvedor
 - Stack: Firebase · Next · IA
+
 
 
 
