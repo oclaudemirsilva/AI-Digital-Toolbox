@@ -16,9 +16,12 @@ modo primal
 dor: redes sociais estão nos tornando anti-sociais
 
 
-# BlueSky  
+## BlueSky  
 [Como usar o BlueSky](https://www.youtube.com/watch?v=Dr-8QNqwjFI)
 
+
+https://bsky.social/about  
+https://bsky.app/  
 
 
 **Poosting**  
