@@ -7,6 +7,13 @@
 
 
 
+[Quando não usar SQL e usar noSQL](https://www.youtube.com/watch?v=o8HEfReQ6co)
+
+
+
+
+
+
 
 
 
