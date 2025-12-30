@@ -30,3 +30,8 @@ What is spec driven development, by github:
 [https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/](https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/)
 [https://github.com/github/spec-kit?tab=readme-ov-file#-what-is-spec-driven-development](https://github.com/github/spec-kit?tab=readme-ov-file#-what-is-spec-driven-development)
 
+
+
+Public APIs:
+
+[https://github.com/public-apis/public-apis](https://github.com/public-apis/public-apis)
