@@ -6,8 +6,10 @@
 https://www.reddit.com/
 
 
-
+## Primalzen
 https://www.primalzen.com.br/
+modo zen  
+modo primal  
 
 dor: redes sociais estão nos tornando anti-sociais
 
