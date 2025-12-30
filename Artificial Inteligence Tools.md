@@ -17,6 +17,9 @@ Ask questions about your architecture, find function definitions, and understand
 [codewiki.google](https://codewiki.google/)
 
 
+Build, edit, and share AI mini-apps using natural language
+[https://opal.google/landing/](https://opal.google/landing/)
+
 ## LLMs
 
 
