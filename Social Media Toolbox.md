@@ -24,7 +24,12 @@ whatsapp----> para trabalhar o relacionamento 1x1
 - [x] **Direct Mensages:** marcas que conversam no dm tem altas taxas de conversão  
 - [x] **Influência comercial:** 97% dos profissionais de marketing dos US usam Instagram e 30% apontam o Instagram como marketing de influência
 
- d
+### **Primalzen:**
+- [ ] **construção de tribos:** nós contra eles, eu te amo vs eu te combato
+- [ ] **conexões:** uma rede social que é uma rede social
+
+
+
 
 
 
