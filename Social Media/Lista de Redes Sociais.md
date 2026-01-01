@@ -27,6 +27,16 @@ https://pacoca.net/
 
 
 ## BlueSky  
+
+Por que está ganhando popularidade
+O Bluesky existe desde 2019, mas era apenas para convidados até fevereiro deste ano.
+
+Isso permitiu que os desenvolvedores resolvessem todos os problemas nos bastidores, na tentativa de estabilizá-lo antes de abrir as portas para o público em geral.
+
+O plano funcionou, de certa forma. Mas a enxurrada de novos usuários foi tão significativa em novembro que continua a haver problemas de instabilidade no sistema.
+
+
+
 [Como usar o BlueSky](https://www.youtube.com/watch?v=Dr-8QNqwjFI)
 
 
